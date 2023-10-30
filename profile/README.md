@@ -1,9 +1,14 @@
 hallo ges
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
-
+No | Student ID| Name | Email | University |Github 
+--- | --- | --- | --- |--- |---
+1 | A622BSY2486 | Rokman Nurhidayat | A622BSY2486@bangkit.academy | Universitas Muhammadiyah Tangerang | rohmannur02 
+2 | M006BSX1223 | Ida Sri Afiqah |M006BSX1223@bangkit.academy | Universitas Brawijaya | keenaragg 
+3 | M227BSY0228 | Fasal Alif Haikal Irawan | M227BSY0228@bangkit.academy| Universitas Jember| AlifIrawan
+4 | M227BSX1101| Erika Divian Chandhani | M227BSX1101@bangkit.academy | Universitas Jember | erikadivian 
+5 | C354BSY3093 | Iko Raga Ahana Vidiantara | C354BSY3093@bangkit.academy | Universitas Muhammadiyah Jember | ikoraga
+6 | C408BSY4325 | Slamet Rofikoh | C408BSY4325@bangkit.academy | Sekolah Tinggi Ilmu Ekonomi Mandala | - 
+7 | A227BSY2674 | Hendarta Widya Ardana | A227BSY2674@bangkit.academy | Universitas Jember | hendarta0318
 ## Hi there 👋
 
 
