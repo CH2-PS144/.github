@@ -1,6 +1,8 @@
 ## PhysEdu
 ## Bangkit 2023 Capstone Team: CH2-PS144
 
+**Members**
+
 No | Student ID| Name | Email | University |Github 
 --- | --- | --- | --- |--- |---
 1 | A622BSY2486 | Rokman Nurhidayat | A622BSY2486@bangkit.academy | Universitas Muhammadiyah Tangerang | rohmannur02 
