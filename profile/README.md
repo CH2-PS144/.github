@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="150" src="https://github.com/CH2-PS144/.github/assets/104062171/fccb0f25-d35a-44d7-83fa-07626e749892" alt="PhysEdu Logo">
+  <img width="200" height="200" src="https://github.com/CH2-PS144/.github/assets/104062171/fccb0f25-d35a-44d7-83fa-07626e749892" alt="PhysEdu Logo">
 </p>
 
 <div align="center">
