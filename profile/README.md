@@ -21,5 +21,5 @@
 | 3  | M227BSY0228  | Fasal Alif Haikal Irawan   | M227BSY0228@bangkit.academy        | Universitas Jember                     | AlifIrawan  |
 | 4  | M227BSX1101  | Erika Divian Chandhani     | M227BSX1101@bangkit.academy        | Universitas Jember                     | erikadivian |
 | 5  | C354BSY3093  | Iko Raga Ahana Vidiantara  | C354BSY3093@bangkit.academy        | Universitas Muhammadiyah Jember        | ikoraga     |
-| 6  | C408BSY4325  | Slamet Rofikoh             | C408BSY4325@bangkit.academy        | Sekolah Tinggi Ilmu Ekonomi Mandala   | -           |
+| 6  | C408BSY4325  | Slamet Rofikoh             | C408BSY4325@bangkit.academy        | Sekolah Tinggi Ilmu Ekonomi Mandala    | rofikkk999  |
 | 7  | A227BSY2674  | Hendarta Widya Ardana      | A227BSY2674@bangkit.academy        | Universitas Jember                     | hendarta0318|
